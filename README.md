@@ -40,12 +40,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>AI Coding & Harness</h3>
-      <p>在真实产品里实践 Agent 协作、交付合同与验收矩阵，而不是只写 Prompt Demo。</p>
+      <h3><a href="https://github.com/wk1855/agent-skills">agent-skills</a></h3>
+      <p>可复用的 Agent / Codex Skills：需求分流、前端验收门禁、GIS 图层审计、Pont 契约迁移等。</p>
       <p>
-        <img src="https://img.shields.io/badge/Cursor-Agent-18181b?style=flat" alt="Cursor" />
-        <img src="https://img.shields.io/badge/OpenSpec-Ready-10b981?style=flat" alt="OpenSpec" />
-        <img src="https://img.shields.io/badge/pnpm_monorepo-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm" />
+        <img src="https://img.shields.io/badge/Skills-6-10b981?style=flat" alt="Skills" />
+        <img src="https://img.shields.io/badge/Codex-Cursor-18181b?style=flat" alt="Codex" />
+        <img src="https://img.shields.io/badge/License-MIT-3178C6?style=flat" alt="MIT" />
       </p>
     </td>
   </tr>
