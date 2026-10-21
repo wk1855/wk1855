@@ -1,39 +1,82 @@
-### Hi there 👋
+<div align="center">
 
-<div style="background: white ">
-<!-- top left -->
-<div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif" width="60" height="60" align="right"/> 
+# WJ · AI 全栈
+
+> *用 AI 把想法做成可上线的产品：从需求、前后端到支付与履约。*
+
+<p>
+  <a href="https://pintuan-practice-1855.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Featured-拼团哇_Demo-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="拼团哇 Demo"></a>
+  <a href="mailto:wymailboxwj@163.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 </div>
-<p align="center">
-  <a href="https://github.com/wk1855">
-    <img src="https://github-readme-stats.vercel.app/api?username=wk1855&show_icons=true&theme=radical" />
-  </a>
+
+---
+
+### Featured Projects
+
+<table width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://pintuan-practice-1855.vercel.app">拼团哇 · pintuan-practice</a></h3>
+      <p>C 端拼团交易实战：不只是活动页，而是覆盖团长开团、订单、支付与履约链路的全栈产品。Monorepo 架构（Next.js + Nest.js + 共享 contracts），用 DeliveryGuard 做交付登记与验收。</p>
+      <p>
+        <a href="https://pintuan-practice-1855.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-10b981?style=flat&logo=vercel&logoColor=white" alt="Demo" /></a>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white" alt="Nest.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/DeliveryGuard-Harness-18181b?style=flat" alt="DeliveryGuard" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/wk1855/guanji">观己 · guanji</a></h3>
+      <p>融合东方命理与现代心理科学的 AI 占卜 SaaS。在线体验可点 Demo。</p>
+      <p>
+        <a href="https://guanji-1855.vercel.app"><img src="https://img.shields.io/badge/Demo-Live-10b981?style=flat&logo=vercel&logoColor=white" alt="Demo" /></a>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/AI_SaaS-7C3AED?style=flat" alt="AI SaaS" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI Coding & Harness</h3>
+      <p>在真实产品里实践 Agent 协作、交付合同与验收矩阵，而不是只写 Prompt Demo。</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cursor-Agent-18181b?style=flat" alt="Cursor" />
+        <img src="https://img.shields.io/badge/OpenSpec-Ready-10b981?style=flat" alt="OpenSpec" />
+        <img src="https://img.shields.io/badge/pnpm_monorepo-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Focus
+
+- **AI Native 全栈交付：** 从 PRD / 原型到前后端联调、预览部署与验收，独立把产品推上线。
+- **交易与履约工程：** 拼团状态机、订单与支付边界、幂等与失败回滚等真实业务判断。
+- **Agent + Harness：** 用 Skills、交付登记和检查门禁约束 AI 产出，让协作可复现、可验收。
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cursor-AI-18181b?style=flat-square" alt="Cursor" />
 </p>
-<p align="center">
-  <a href="https://github.com/wk1855">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wk1855&layout=compact" />
-  </a>
-</p>
-  
-<!--
-**wk1855/wk1855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk1855)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wk1855&show_icons=true&theme=radical) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wk1855&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+- Email: [wymailboxwj@163.com](mailto:wymailboxwj@163.com)
+- GitHub: [wk1855](https://github.com/wk1855)
